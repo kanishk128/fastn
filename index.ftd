@@ -1,40 +1,32 @@
--- ds.page: Welcome to doc-site
+-- ds.page: Welcome to demo
 
 
-⚡️ `doc-site` will help you create a beautiful documentation site in no time.
+⚡️ `demo` will try to display the capabilities of fastn framework.
 
-It provides out-of-the-box documentation features that can be used to create any
-kind of site(personal website, blog, etc).
+Fastn is an open-source full-stack framework that can be used to create any
+kind of site(personal website, blog, etc) simplifying the process of creation of content heavy-sites.
 
-[Click here](https://fastn-community.github.io/doc-site/) to read doc-site
-documentation.
+[Click here](https://fastn.com/) to explore fastn.
 
--- ds.h3: 🚀 Fast Track 
+-- ds.h3: 🚀 What does fastn do?
 
-Create your first fastn [web-site](https://fastn.com/expander/hello-world/-/build/) 
-project in just 5 minutes!
-
--- ds.h3: 🌟 Whats next?
-
-Create your first page. 
-[Click here to know more](https://fastn-community.github.io/doc-site/components/page/).
-
--- ds.h3: 👀 Want to learn more?
-
-Feel free to check [our expander course](https://fastn.com/expander/) or jump
-into our [FifthTry Discord server](https://discord.gg/bucrdvptYd).
+fastn is a web framework that serves as an integrated development environment for FTD. It is a web server that compiles FTD to HTML, CSS, and JS.
+It allows us to deploy fastn applications on any static hosting provider, such as GitHub Pages, Vercel, fastn Cloud, or your own server 
 
 
--- ds.h3: 🎯 Used by?
+-- ds.h3: 🌟 Whats FTD?
 
-Our all documentation sites uses this `doc-site` theme.
+FTD is a custom language designed for easy learning.
+It is beginner-friendly and open-source, making it accessible even to those with no prior programming experience 
 
-- [fastn.com](https://fastn.com/home/)
-- [FifthTry.com](https://www.fifthtry.com/)
+-- ds.h3: 👀 What can you do with fastn?
 
--- ds.h2: Learn fastn and become a pro?
+With fastn, you can build modern content-centric and database-driven websites faster and easier than ever before.
+It offers a rich library of ready-made components, color schemes, and website templates, which means you don’t have to start from scratch 
 
-You are one click away, just check [our documentation](https://fastn.com/) and 
-dont forget to jump into our [FifthTry Discord server](https://discord.gg/bucrdvptYd).
+
+-- ds.h2: Excited to learn fastn?
+
+You are one click away, just check [our documentation](https://fastn.com/).
 
 -- end: ds.page
